@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568438169266",
+    "project_id": "flutter-project-cf721",
+    "storage_bucket": "flutter-project-cf721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568438169266:android:07618e87c2e5185a1eb3ab",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAt8c0WeH7ExK0RcE5gZ_Qd2EZqZ3B2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568438169266:android:4f1d96da8b8214091eb3ab",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAt8c0WeH7ExK0RcE5gZ_Qd2EZqZ3B2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
